@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yujinwon-dev
 - 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning JAVA, C.
+- 🌱 I’m currently learning Python, Java, C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me => won_yujin@naver.com
 
