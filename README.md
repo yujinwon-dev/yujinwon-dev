@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning Python, Java, C.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me => won_yujin@naver.com
+- 📫 How to reach me => 
 
 <!---
 yujinwon-dev/yujinwon-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
