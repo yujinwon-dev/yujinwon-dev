@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yujinwon-dev
 - 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning Python, Java, C.
+- 🌱 I’m currently learning Python, Vue, Django.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me => 
 
