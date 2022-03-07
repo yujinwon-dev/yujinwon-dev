@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yujin WON%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yujin WON%20render&fontSize=90" />
 
 - 👋 Hi, I’m @yujinwon-dev
 - 👀 I’m interested in frontend development.
