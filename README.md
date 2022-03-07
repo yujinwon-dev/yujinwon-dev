@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Yujin WON&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Yujin WON&fontSize=70" />
 
 - 👋 Hi, I’m @yujinwon-dev
 - 👀 I’m interested in frontend development.
