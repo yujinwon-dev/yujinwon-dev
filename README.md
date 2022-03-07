@@ -1,11 +1,12 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yujin WON%20render&fontSize=90)
+
 - 👋 Hi, I’m @yujinwon-dev
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning Python, Vue, Django.
 
 <div align=center>
-  
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://velog.io/@wonyuuu)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:wwonyujin@gmail.com)
+[![Tech Blog Badge](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@wonyuuu)](https://velog.io/@wonyuuu)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wwonyujin@gmail.com)](mailto:wwonyujin@gmail.com)
   
 </div>
 
