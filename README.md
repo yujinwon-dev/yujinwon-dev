@@ -10,8 +10,8 @@
   ### ✨ Tech Stack ✨
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-384C8C?style=flat-square&logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jotai-C6C6C6?style=flat-square&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-384C8C?style=flat-square&logo=Zustand&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jotai-C6C6C6?style=flat-square&logo=Jotai&logoColor=white"/>
   <br />
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
