@@ -1,7 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Yujin WON&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Yujin Won&fontSize=60" />
 
 
 <div align=center>
+  
+  <strong>Junior Frontend Engineer</strong>
+  <br />
+  <br />
+  Email: wwonyujin@gmail.com
+  <br />
+  Portfolio: [Notion Link](https://wonyuuu.notion.site/d660a308a489442ba9a615f2e0917c52)
+  <br />
+  Blog: https://velog.io/@wonyuuu
   
   ### ✨ Tech Stack ✨
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -14,17 +23,14 @@
   <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white"/>
   <br />
   
+  <!---
   ### 📫 How to reach me:
   <a href="https://velog.io/@wonyuuu"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@wonyuuu"/></a>
   <a href="mailto:wwonyujin@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wwonyujin@gmail.com"/></a>
-  
+--->
 </div>
 
   <!---
 yujinwon-dev/yujinwon-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-<!---
-  <img src="https://img.shields.io/badge/Zustand-384C8C?style=flat-square&logo=Zustand&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jotai-C6C6C6?style=flat-square&logo=Jotai&logoColor=white"/>
 --->
