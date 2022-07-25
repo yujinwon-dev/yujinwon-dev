@@ -8,7 +8,7 @@
   <br />
   Email: wwonyujin@gmail.com
   <br />
-  Portfolio: [Notion Link](https://wonyuuu.notion.site/d660a308a489442ba9a615f2e0917c52)
+  Resume: [Notion Link](https://wonyuuu.notion.site/d660a308a489442ba9a615f2e0917c52)
   <br />
   Blog: https://velog.io/@wonyuuu
   
