@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Yujin Won&fontSize=60" />
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Yujin%20Won&fontSize=60)
 
 <div align=center>
   
