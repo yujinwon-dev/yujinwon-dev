@@ -2,7 +2,7 @@
 
 <div align=center>
   
-  <strong>Junior Frontend Engineer</strong>
+  <strong>Frontend Engineer</strong>
   <br />
   <br />
   Email: wwonyujin@gmail.com
